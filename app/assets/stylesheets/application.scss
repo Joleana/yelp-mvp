@@ -11,3 +11,11 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.banner {
+  background: red;
+
+  h1 {
+  font-sze: 50px;
+  }
+}
